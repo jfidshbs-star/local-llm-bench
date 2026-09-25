@@ -1,0 +1,5 @@
+corpus/raw/
+corpus/text/
+.venv/
+__pycache__/
+*.log
